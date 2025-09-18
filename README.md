@@ -7,7 +7,7 @@
     body {
       background: #0a1a2a;
       color: #e0e0e0;
-      font-family: 'Helvetica Neue', sans-serif;
+      font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif;
       text-align: center;
       padding: 120px 20px;
       margin: 0;
@@ -30,11 +30,16 @@
       margin-bottom: 2rem;
     }
     .heart { color: #ff4d4d; }
+    small {
+      color: #666;
+      font-size: 1rem;
+      margin-top: 2rem;
+    }
   </style>
 </head>
 <body>
   <h1>ECHO<span class="heart">.</span>S O U L</h1>
   <p>你心里那句说不出的话，<br>我不需要你开口，<br>我已经听见了。</p>
-  <small style="color: #666;">— A quiet space, no login, no ads, no tracking —</small>
+  <small>—— 一个没有登录、没有广告、没有追踪的安静角落 ——</small>
 </body>
 </html>
